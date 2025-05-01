@@ -1,0 +1,19 @@
+.terraform/
+# Terraform files to ignore
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfvars
+*.log
+
+# Crash logs
+crash.log
+
+# IDE/editor files
+*.swp
+*.bak
+*.tmp
+*.idea/
+.vscode/
+.DS_Store
+
